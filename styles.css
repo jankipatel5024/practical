@@ -1,0 +1,92 @@
+.nav-link{
+    /* font-weight: bold !important; */
+    color: rgb(27, 26, 25) !important;
+}
+.btn{
+    border: 1px solid blue !important;
+    color: blue !important;
+}
+.demo{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #f3fafd;
+}
+.t{
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn2{
+     border: 10px solid blueviolet;
+     background-color: blueviolet;
+     border-radius: 10px;
+
+}
+.s{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.p{
+    font-weight: bold;
+    font-size: 40px;
+}
+.f{
+    margin-top: 50px;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #f3fafd; 
+}
+.card{
+    padding: 10px;
+    border: 1px solid blueviolet;
+    background-color: #f3fafd;
+}
+.f :hover{
+background-color: blueviolet;
+color: white;
+}
+.a{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.s{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+.abc{
+    /* margin-top: 100px; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.card2{
+    box-shadow: 4px 4px 10px gainsboro;
+    border-radius: 20px;
+}
+.abc2{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.card3{
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 20px;
+}
+.avtar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
